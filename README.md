@@ -1,5 +1,5 @@
 # Health_Prediction_Covid
-<hr>
+
 To visualize the effects of the preconditions for COVID -19 we have taken two datasets from the
 kaggle and third dataset from the kaggle and github.In the first dataset which include the
 precondition of various patients and covid results .This dataset is provided by the mexican
@@ -25,7 +25,9 @@ that cause and in turn influence the level to which a person is susceptible to
 In the final dataset, which is a culmination of two datasets obtained from GitHub & Kaggle
 respectively, we have tried to conclude whether a person is likely to have the coronavirus based
 solely on the X-Ray scan or CT scan. We try to train the dataset to distinguish between a healthy
-person and a person suffering from coronavirus
+person and a person suffering from coronavirus.
+
 <hr>
-Workflow Diagram
+
+## Workflow Diagram
 ![image](https://user-images.githubusercontent.com/62128029/187271131-481a6a83-7fc3-4e96-b4c3-b800087a7751.png)

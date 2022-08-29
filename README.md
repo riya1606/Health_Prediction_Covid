@@ -27,7 +27,6 @@ respectively, we have tried to conclude whether a person is likely to have the c
 solely on the X-Ray scan or CT scan. We try to train the dataset to distinguish between a healthy
 person and a person suffering from coronavirus.
 
-<hr>
 
 ## Workflow Diagram
 ![image](https://user-images.githubusercontent.com/62128029/187271131-481a6a83-7fc3-4e96-b4c3-b800087a7751.png)
